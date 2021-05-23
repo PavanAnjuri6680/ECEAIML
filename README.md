@@ -13,4 +13,4 @@ this is link to [Google](https://www.google.co.in)
 
 Your Photo:
 
-(gitamlogo.jpg)
+![Pavankumar](gitamlogo.jpg)
